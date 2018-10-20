@@ -1,4 +1,6 @@
-![lein dependency](https://clojars.org/org.flatland/ordered/latest-version.svg)
+This is a fork from https://github.com/amalloy/ordered
+
+![lein dependency](https://clojars.org/org.clojars.ctomo/ordered/latest-version.svg)
 
 ordered provides sets and maps that maintain the insertion order of their contents.
 
